@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 토끼샘
 환영합니다.
 You can use the [editor on GitHub](https://github.com/kwon1029/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
